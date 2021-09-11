@@ -1,0 +1,50 @@
+
+
+img
+{
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.result_more_accurate
+{
+    background: lightgray;
+    padding: 10px;
+    margin-top: 20px;
+    border: 3px solid white;
+    border-radius: 10px;
+}
+
+h5 b
+{
+    color: purple;
+}
+
+body
+{
+    background-color: lightsalmon;
+}
+
+h1{
+    font-size: 50px;
+    color: white;
+}
+
+span
+{
+    color: red;
+    font-size: 20px;
+}
+
+#span_head
+{
+    color: white;
+    font-size: 25px;
+}
+
+#image1
+{
+    width: 100px;
+    height: 100px;
+}
